@@ -23,9 +23,9 @@
 
 ### Technologies
 
-I've been involved in web development since the era of Netscape. Backend roots in Java, PHP and Python. DevOps experience with Docker, Kubernetes, AWS and Serverless. Transitioned to the frontend where I witnessed the remarkable evolution of JavaScript, the rise of jQuery, the disruptive impact of Node.js, and the dominance of React. 
+I've been involved in web development since the era of Netscape. Backend roots in Java, PHP and Python. DevOps experience with Docker, Kubernetes, AWS and Serverless.
 
-Currently, my primary focus revolves around innovative technologies such as React, TypeScript, and Next.js.
+Currently, my primary focus revolves around innovative technologies such as TypeScript, React and Node.js.
 
 ### Contact
 
