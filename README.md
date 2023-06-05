@@ -25,7 +25,7 @@
 
 I've been involved in web development since the era of Netscape. Backend roots in Java, PHP and Python. DevOps experience with Docker, Kubernetes, AWS and Serverless.
 
-Currently, my primary focus revolves around innovative technologies such as TypeScript, React and Node.js.
+Currently, my primary focus revolves around the frontend and innovative technologies such as TypeScript, React and Node.js.
 
 ### Contact
 
