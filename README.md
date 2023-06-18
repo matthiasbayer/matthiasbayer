@@ -17,8 +17,9 @@
 ### Stats  
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=matthiasbayer&show_icons=true&locale=en&count_private=true" alt="matthiasbayer" /> -->
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasbayer&layout=compact&locale=en&count_private=true" /><br />
-  <img src="https://streak-stats.demolab.com/?user=matthiasbayer&" alt="matthiasbayer" />
+  <img src="https://streak-stats.demolab.com/?user=matthiasbayer&" alt="matthiasbayer" /><br />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasbayer&layout=compact&locale=en&count_private=true" />
+  
 </div>
 
 ### Technologies
