@@ -8,8 +8,8 @@
 ##### Software Engineer from Germany with a passion for web technology.
 
   - 👨‍💻 Building for the web since 15+ years
-  - 🔥 Always learning, always evolvoing
-  - 🌱 Currently focused on building and scaling SaaS platforms
+  - 🔥 Always curious and trying new technologies
+  - 🌱 Currently focused on building and scaling AI SaaS platforms
   - 🌍 Based in 🇩🇪 Munich, Germany
   - 🍕 Neapolitan pizza enthusiast
   - ♟️ Hobby chess player
@@ -24,9 +24,11 @@
 
 ### Technologies
 
-I've been involved in web development since the era of Netscape. Backend roots in Java, PHP and Python. DevOps experience with Docker, Kubernetes, AWS and Serverless.
+Hi! I'm a software engineer based in Munich, currently working on building AI tools and platforms.
 
-Currently, my primary focus revolves around the frontend and innovative technologies such as TypeScript, React and Node.js.
+I've been involved in web development since the era of Netscape. Backend roots in Java, PHP and Python. DevOps experience with Docker, Kubernetes, AWS and Serverless. 
+
+Currently, my primary focus revolves around the frontend using technologies like TypeScript, React and Node.js.
 
 ### Contact
 
