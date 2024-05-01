@@ -5,7 +5,7 @@
 
 
 ### Hi there 👋 I'm Matthias
-##### Software Engineer from Germany with a passion for web technology.
+##### Software Engineer based in Munich with a passion for web technology.
 
   - 👨‍💻 Building for the web since 15+ years
   - 🔥 Always curious and trying new technologies
@@ -13,22 +13,13 @@
   - 🌍 Based in 🇩🇪 Munich, Germany
   - 🍕 Neapolitan pizza enthusiast
   - ♟️ Hobby chess player
-  
-### Stats  
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=matthiasbayer&show_icons=true&locale=en&count_private=true" alt="matthiasbayer" /> -->
-  <img src="https://streak-stats.demolab.com/?user=matthiasbayer&border_radius=6" alt="matthiasbayer" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasbayer&layout=compact&locale=en&count_private=true" />
-  
-</div>
 
-### Technologies
+### About me
 
-Hi! I'm a software engineer based in Munich, currently working on building AI tools and platforms.
+Hi! I'm a software engineer based in Munich, currently working on building AI tools and platforms using TypeScript, React, Node.js and Next.js.
 
 I've been involved in web development since the era of Netscape. Backend roots in Java, PHP and Python. DevOps experience with Docker, Kubernetes, AWS and Serverless. 
 
-Currently, my primary focus revolves around the frontend using technologies like TypeScript, React and Node.js.
 
 ### Contact
 
