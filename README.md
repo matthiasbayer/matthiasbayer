@@ -18,9 +18,6 @@
 
 Hi! I'm a software engineer based in Munich, currently working on building AI tools and platforms using TypeScript, React, Node.js and Next.js.
 
-I've been involved in web development since the era of Netscape. Backend roots in Java, PHP and Python. DevOps experience with Docker, Kubernetes, AWS and Serverless. 
-
-
 ### Contact
 
 Interested in working with me? [Let's chat!](https://cal.com/bayer)
